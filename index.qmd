@@ -4,7 +4,7 @@ title: "Home"
 
 # Peyton Estep
 
-Hello! I'm a Data Analytics senior interested in research and 
+Hello! I'm a Data Analytics senior interested in research and using data to discover new insights!
 
 ## What you’ll find here
 - A few projects I’m proud of
@@ -12,7 +12,7 @@ Hello! I'm a Data Analytics senior interested in research and
 - Ways to contact me
 
 ## Quick highlights
-- **Skills:** R, tidyverse, SQL, data visualization, statistical modeling, optimization 
+- **Skills:** R, Python, SQL, Excel, data visualization, statistical modeling, optimization (Gurobi)
 - **Interests:** Research, Market Research, Business Analytics
 - **Currently seeking:** internships / research / full-time roles
 
