@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "StressAnxietyStudy.html",
+    "href": "StressAnxietyStudy.html",
+    "title": "Examining Strategies for Managing Stress and Anxiety in College Students",
+    "section": "",
+    "text": "This experimental study examined whether brief psychological interventions could reduce anxiety in college students following an acute social-evaluative stressor.\nParticipants completed a modified Trier Social Stress Test (TSST), a public speaking task designed to induce stress. Students were randomly assigned to one of three conditions:\n\nCognitive-Behavioral Therapy (CBT) cognitive restructuring worksheet\nExistential meaning-making reflection worksheet\nNeutral writing control activity\n\nState anxiety was measured at baseline, immediately after the speech task, and after a 30-minute recovery period using the STAI-6 scale.\nResults from ANOVA analyses showed no statistically significant differences between conditions. Anxiety levels decreased during the recovery period for all participants, suggesting natural emotional regulation over time."
+  },
+  {
+    "objectID": "StressAnxietyStudy.html#project-overview",
+    "href": "StressAnxietyStudy.html#project-overview",
+    "title": "Examining Strategies for Managing Stress and Anxiety in College Students",
+    "section": "",
+    "text": "This experimental study examined whether brief psychological interventions could reduce anxiety in college students following an acute social-evaluative stressor.\nParticipants completed a modified Trier Social Stress Test (TSST), a public speaking task designed to induce stress. Students were randomly assigned to one of three conditions:\n\nCognitive-Behavioral Therapy (CBT) cognitive restructuring worksheet\nExistential meaning-making reflection worksheet\nNeutral writing control activity\n\nState anxiety was measured at baseline, immediately after the speech task, and after a 30-minute recovery period using the STAI-6 scale.\nResults from ANOVA analyses showed no statistically significant differences between conditions. Anxiety levels decreased during the recovery period for all participants, suggesting natural emotional regulation over time."
+  },
+  {
+    "objectID": "StressAnxietyStudy.html#skills-demonstrated",
+    "href": "StressAnxietyStudy.html#skills-demonstrated",
+    "title": "Examining Strategies for Managing Stress and Anxiety in College Students",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\n\nExperimental research design\nRandom assignment and control conditions\nPsychological stress induction (TSST protocol)\nQuantitative analysis using SPSS\nOne-way ANOVA statistical testing\nPsychological measurement using STAI-6\nAPA-style scientific writing"
+  },
+  {
+    "objectID": "StressAnxietyStudy.html#methods-key-details",
+    "href": "StressAnxietyStudy.html#methods-key-details",
+    "title": "Examining Strategies for Managing Stress and Anxiety in College Students",
+    "section": "Methods (Key Details)",
+    "text": "Methods (Key Details)\nParticipants: 36 undergraduate students at Denison University.\nStress Induction: Modified TSST speech task (5-minute speech to neutral panelists).\nDesign: Between-subjects experimental design with three conditions:\n\nCBT cognitive restructuring\nExistential meaning-making reflection\nNeutral writing control\n\nMeasures: State anxiety measured using the STAI-6 at three timepoints:\n\nBaseline\nImmediately post-TSST\nAfter 30-minute recovery\n\nRecovery Tasks: 30-minute sequence of neutral tasks including category listing, letter cancellation, and bead sorting."
+  },
+  {
+    "objectID": "StressAnxietyStudy.html#results",
+    "href": "StressAnxietyStudy.html#results",
+    "title": "Examining Strategies for Managing Stress and Anxiety in College Students",
+    "section": "Results",
+    "text": "Results\n\nDescriptive Statistics\nTable: Descriptive Statistics for STAI-6 Scores\n\n\n\nTimepoint\nMean STAI-6 Score\n\n\n\n\nBaseline\n13.11\n\n\nPost-TSST\n14.29\n\n\nPost-Recovery\n10.66\n\n\n\n\n\nPost-TSST Anxiety\n\n\n\n\n\n\nFigure 1: Post-TSST STAI-6 Scores by Condition\n\n\n\n\n\nPost-Recovery Anxiety\n\n\n\n\n\n\nFigure 2: Post-Recovery STAI-6 Scores by Condition\n\n\n\n\n\nChange in Anxiety During Recovery"
+  },
+  {
+    "objectID": "StressAnxietyStudy.html#key-takeaways",
+    "href": "StressAnxietyStudy.html#key-takeaways",
+    "title": "Examining Strategies for Managing Stress and Anxiety in College Students",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nBrief CBT and Existential worksheets did not significantly reduce acute anxiety following public speaking.\nRecovery occurred naturally across all groups, suggesting time and distraction can be effective.\nThese findings highlight the importance of intervention timing and repetition for stress-management strategies in college students."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome to my projects page! Here you can explore my research and other work."
+  },
+  {
+    "objectID": "projects.html#project-1-title-course-personal-internship",
+    "href": "projects.html#project-1-title-course-personal-internship",
+    "title": "Projects",
+    "section": "",
+    "text": "Goal: (1–2 sentences)\nData: (source, size, key variables)\nMethods: (e.g., regression, clustering, classification, visualization)\nKey result: (1–2 sentences)\nLink: GitHub repo / report (optional)"
+  },
+  {
+    "objectID": "about.html#markdown",
+    "href": "about.html#markdown",
+    "title": "About Me",
+    "section": "```markdown",
+    "text": "```markdown"
+  },
+  {
+    "objectID": "about.html#title-about",
+    "href": "about.html#title-about",
+    "title": "About Me",
+    "section": "title: “About”",
+    "text": "title: “About”"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\nCoding Languages: Python (Pandas. Matplotlib, Plotly, Gurobi), R (dplyr, ggplot2, tidyverse, tidyr, rmarkdown, knitr), SQL, SPSS\nSoftware and Environments: RStudio, Jupyter Notebook, Git, Gurobi, Marimo\nTools: Git/GitHub, Quarto, Excel, Tableau/Power BI\n\nStatistical Analysis: Hypothesis Testing, Regression Analysis, Correlation Analysis, Optimization/Linear Programming"
+  },
+  {
+    "objectID": "about.html#what-im-working-on",
+    "href": "about.html#what-im-working-on",
+    "title": "About Me",
+    "section": "What I’m working on",
+    "text": "What I’m working on\n\nBuilding a counter/tracker app using Claude.AI\nResearching stigma in LLMs for different mental health disorders"
+  },
+  {
+    "objectID": "about.html#coursework",
+    "href": "about.html#coursework",
+    "title": "About Me",
+    "section": "Coursework",
+    "text": "Coursework\n\nAdvanced Prescriptive Analytics\nApplied Statistics\nPracticum in Data Analytics\nLeveraging Databases for DA\nClinical Psychology\nResearch in Clinical Psychology"
+  },
+  {
+    "objectID": "about.html#linkedin",
+    "href": "about.html#linkedin",
+    "title": "About Me",
+    "section": "LinkedIN",
+    "text": "LinkedIN\nwww.linkedin.com/in/peytonestep"
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About Me",
+    "section": "Resume",
+    "text": "Resume\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello! I’m a Data Analytics senior interested in research and\n\n\n\nA few projects I’m proud of\nThe tools I use\nWays to contact me\n\n\n\n\n\nSkills: R, tidyverse, SQL, data visualization, statistical modeling, optimization\nInterests: Research, Market Research, Business Analytics\nCurrently seeking: internships / research / full-time roles\n\n\n\n\n\nEmail: pestep09@gmail.com\nGitHub: https://github.com/PeytonEEstep\nLinkedIn: www.linkedin.com/in/peytonestep"
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Home",
+    "section": "",
+    "text": "A few projects I’m proud of\nThe tools I use\nWays to contact me"
+  },
+  {
+    "objectID": "index.html#quick-highlights",
+    "href": "index.html#quick-highlights",
+    "title": "Home",
+    "section": "",
+    "text": "Skills: R, tidyverse, SQL, data visualization, statistical modeling, optimization\nInterests: Research, Market Research, Business Analytics\nCurrently seeking: internships / research / full-time roles"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "Email: pestep09@gmail.com\nGitHub: https://github.com/PeytonEEstep\nLinkedIn: www.linkedin.com/in/peytonestep"
+  },
+  {
+    "objectID": "projects.html#research-projects",
+    "href": "projects.html#research-projects",
+    "title": "Projects",
+    "section": "Research Projects",
+    "text": "Research Projects\n\nStress & Anxiety Study\nA study examining strategies for managing stress and anxiety in college students using CBT and Existential meaning-making interventions. Includes analysis of public speaking stress responses and recovery patterns.\nDownload full paper (PDF)\n\n\nUrban Walkability & Restaurant Longevity Research\nThis study explores how neighborhood walkability relates to the longevity of restaurants across five cities in Cuyahoga County, Ohio. Using block-level Walk Scores, population data, and restaurant opening years, the analysis examines spatial patterns, differences between chain and standalone restaurants, and whether walkability predicts restaurant survival.\nDownload full paper (PDF)\n\n\nEquity-Focused Urban Forestry in Chicago\nA data-driven analysis identifying Chicago census tracts for strategic tree canopy expansion to maximize public health, mitigate urban heat, improve air quality, and promote environmental equity. The study used optimization models incorporating population, low-income status, air pollution, Urban Heat Index, and social vulnerability to guide high-impact tree-planting decisions.\nDownload full paper (PDF)"
+  },
+  {
+    "objectID": "UrbanWalkabilityStudy.html",
+    "href": "UrbanWalkabilityStudy.html",
+    "title": "Urban Walkability & Restaurant Longevity",
+    "section": "",
+    "text": "This study examined whether urban walkability, city-level characteristics, and chain status predict the longevity of restaurants across five cities in Cuyahoga County, Ohio.\nData on restaurants, block-level population, and Walk Scores were collected using APIs, manual research, and spatial analysis. Analyses included descriptive statistics, exploratory visualizations, and regression modeling to determine which factors were associated with restaurant age."
+  },
+  {
+    "objectID": "UrbanWalkabilityStudy.html#project-overview",
+    "href": "UrbanWalkabilityStudy.html#project-overview",
+    "title": "Urban Walkability & Restaurant Longevity",
+    "section": "",
+    "text": "This study examined whether urban walkability, city-level characteristics, and chain status predict the longevity of restaurants across five cities in Cuyahoga County, Ohio.\nData on restaurants, block-level population, and Walk Scores were collected using APIs, manual research, and spatial analysis. Analyses included descriptive statistics, exploratory visualizations, and regression modeling to determine which factors were associated with restaurant age."
+  },
+  {
+    "objectID": "UrbanWalkabilityStudy.html#skills-demonstrated",
+    "href": "UrbanWalkabilityStudy.html#skills-demonstrated",
+    "title": "Urban Walkability & Restaurant Longevity",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\n\nGeographic Information Systems (GIS) data handling\nAPI data collection and scraping (Walk Score, Google Maps/SerpAPI)\nSpatial joins and block-level analysis\nDescriptive statistics and visualizations in R\nRegression modeling and interpretation\nScientific writing and data presentation"
+  },
+  {
+    "objectID": "UrbanWalkabilityStudy.html#methods-key-details",
+    "href": "UrbanWalkabilityStudy.html#methods-key-details",
+    "title": "Urban Walkability & Restaurant Longevity",
+    "section": "Methods (Key Details)",
+    "text": "Methods (Key Details)\nStudy Area: Five cities in Cuyahoga County, Ohio: Lakewood, Berea, Maple Heights, North Royalton, and Strongsville. Cities were chosen for their proximity and variation in walkability.\nData Collection:\n\nWalkability: Block-level Walk Scores collected via API, smoothed using K-nearest neighbors (k = 5) to reduce anomalies.\nPopulation: Census block population data from 2020 Decennial Census, linked to block geometries.\nRestaurants: Locations and opening years collected via SerpAPI and manual searches; filtered to city boundaries.\n\nVariables:\n\nDependent: Restaurant age (years open)\nPredictors: Walk Score (smoothed), city, chain status (standalone vs. chain)\n\nAnalyses:\n\nDescriptive statistics and exploratory plots of Walk Scores and Restaurant distribution.\nComparisons of restaurant longevity by chain status.\nRegression models predicting restaurant age from walkability, city, and chain status."
+  },
+  {
+    "objectID": "UrbanWalkabilityStudy.html#results",
+    "href": "UrbanWalkabilityStudy.html#results",
+    "title": "Urban Walkability & Restaurant Longevity",
+    "section": "Results",
+    "text": "Results\nTable 1: Block and Walk Score Summary by City\n\n\n\n\n\n\n\n\n\n\n\nCity\n# of Blocks\nOverall Walk Score\nMean Walk Score (smoothed)\nMax\nMin\n\n\n\n\nLakewood\n445\n70\n79.34\n40.5\n6.9\n\n\nMaple Heights\n308\n40\n55.91\n25\n15.79\n\n\nBerea\n297\n35\n50.68\n11.83\n18.59\n\n\nStrongsville\n381\n20\n47\n11.33\n13.11\n\n\nNorth Royalton\n217\n16\n31.48\n14\n12.84\n\n\n\n\nWalkability Distribution by City\n\n\n\n\n\n\nFigure 1: Walk Scores by City\n\n\n\n\n\nRestaurant Longevity by Chain Status\n\n\n\n\n\n\nFigure 2: Age Distributions: Chain vs Standalone Restaurants\n\n\n\n\n\nRegression Models\n\n\n\nPredictor\nModel 1\nModel 2\nModel 3\n\n\n\n\nIntercept\n6.669***\n14.784***\n13.884***\n\n\nWalk Score (smoothed)\n0.087**\n0.009\n0.011\n\n\nCity (vs Berea)\n-\nvaries\nvaries\n\n\nChain Status\n-\n-\n1.001\n\n\nN\n341\n341\n341\n\n\nR²\n0.02\n0.068\n0.069\n\n\n\n*** p &lt; 0.001; ** p &lt; 0.01; * p &lt; 0.05"
+  },
+  {
+    "objectID": "UrbanWalkabilityStudy.html#key-takeaways",
+    "href": "UrbanWalkabilityStudy.html#key-takeaways",
+    "title": "Urban Walkability & Restaurant Longevity",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nWalkability had a statistically significant but minimal effect on restaurant longevity.\nCity-level differences accounted for most variation in restaurant age.\nChain vs standalone restaurants did not differ significantly in longevity.\nImplications for urban planning: walkable areas slightly favor restaurant longevity, but broader contextual factors matter more."
+  },
+  {
+    "objectID": "ChicagoForestryStudy.html",
+    "href": "ChicagoForestryStudy.html",
+    "title": "Equity-Focused Urban Forestry Planning in Chicago",
+    "section": "",
+    "text": "This study developed a data-driven framework for allocating new tree canopy across Chicago to maximize public health benefits, mitigate urban heat, improve air quality, and address environmental inequities.\nUsing census-tract-level data, a Mixed-Integer Linear Programming (MILP) optimization framework identified priority tracts for tree planting. Models considered multiple objectives, including total population, low-income residents, air quality, Urban Heat Index (UHI), and social vulnerability to extreme heat.\nResults show that strategic canopy allocation can target both high-density and hish-risk areas, benefiting over 1.8 million residents while maintaining ecological and equity constraints."
+  },
+  {
+    "objectID": "ChicagoForestryStudy.html#project-overview",
+    "href": "ChicagoForestryStudy.html#project-overview",
+    "title": "Equity-Focused Urban Forestry Planning in Chicago",
+    "section": "",
+    "text": "This study developed a data-driven framework for allocating new tree canopy across Chicago to maximize public health benefits, mitigate urban heat, improve air quality, and address environmental inequities.\nUsing census-tract-level data, a Mixed-Integer Linear Programming (MILP) optimization framework identified priority tracts for tree planting. Models considered multiple objectives, including total population, low-income residents, air quality, Urban Heat Index (UHI), and social vulnerability to extreme heat.\nResults show that strategic canopy allocation can target both high-density and hish-risk areas, benefiting over 1.8 million residents while maintaining ecological and equity constraints."
+  },
+  {
+    "objectID": "ChicagoForestryStudy.html#skills-demonstrated",
+    "href": "ChicagoForestryStudy.html#skills-demonstrated",
+    "title": "Equity-Focused Urban Forestry Planning in Chicago",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\n\nUrban planning and environmental equity analysis\nGeospatial data processing (TIGER/Line shapefiles, centroids, buffers)\nMixed-Integer Linear Programming (MILP) optimization\nMulti-objective decision modeling\nQuantitative analysis of environmental exposure and social vulnerability\nData visualization using GIS maps\nPolicy-informed prioritization or urban forestry initiatives"
+  },
+  {
+    "objectID": "ChicagoForestryStudy.html#methods-key-details",
+    "href": "ChicagoForestryStudy.html#methods-key-details",
+    "title": "Equity-Focused Urban Forestry Planning in Chicago",
+    "section": "Methods (Key Details)",
+    "text": "Methods (Key Details)\nData Sources: Six census-tract-level datasets were used:\n\nCurrent tree canopy coverage\nTotal population\nLow-income population\nAirborne pollutant concentrations\nUrban Heat Index (UHI)\nSocial vulnerability to extreme heat\n\nDesign: Five single-objective MILP models were run to prioritize tracts for planting based on:\n\nPopulation\nLow-income population\nAir quality\nUrban Heat Index\nSocial vulnerability\n\nA final composite “Big Model” aggregated the single-objective results with weighted priorities to identify the highest-impact tracts for canopy investment.\nGeospatial Processing: - Census tract centroids were calculated for distance-based benefit propogation (1.5 km radius). - Overlapping planting zones were restricted to prevent unrealistic density. - Planting eligibility excluded tracts already exceeding 40% canopy coverage.\nBudget and Constraints: - Total available planting area: 8.93 km² (effective budget after practicality adjustments). - Each tracts could not exceed 40% canopy post-planting. - Budget fractions were allocated per tract according to optimization outcomes."
+  },
+  {
+    "objectID": "ChicagoForestryStudy.html#results",
+    "href": "ChicagoForestryStudy.html#results",
+    "title": "Equity-Focused Urban Forestry Planning in Chicago",
+    "section": "Results",
+    "text": "Results\n\nCurrent Canopy Coverage\nMaps revealed uneven tree canopy distribution, with several northern tracts already near or above 40% canopy coverage, limiting planting options.\n\n\nPopulation Model\n52 tracts were selected to maximize benefits for the greatest number of residents, impacting over 1.86 million people. Allocated budget fractions ranged from 0.26% to 6.33% per tract.\n\n\nLow-Income Population Model\n50 tracts were prioritized to benefit low-income residents, reaching over 1.4 million people in vulnerable communities. Budget fractions ranged from 0.26% to 6.27%.\n\n\nAir Quality Model\n52 tracts were selected in areas with high airborne pollutant concentrations. Allocated budget fractions ranged from 0.26% to 6.33%, targeting neighborhoods with the greatest air-quality improvement potential.\n\n\nUrban Heat Index Model\n52 tracts were selected in areas with high summer heat exposure (UHI), prioritizing extreme-heat mitigation. Budget fractions ranged from 0.26% to 6.33%.\n\n\nSocial Vulnerability Model\n55 tracts were selected where residents had multiple components of social vulnerability to extreme heat. Budget allocations ranged from 0.26% to 5.05% per tract.\n\n\nComposite “Big Model”\nThe integrated model selected 149 tracts, balancing population, equity, environmental, and health priorities. Major allocations included:\n\nTract 17031700301: 5.04% of budget (~0.451 km²)\n\nTract 17031570300: 4.18% of budget (~0.373 km²)\n\nTract 17031650301: 3.96% of budget (~0.353 km²)\n\nAll budget allocations remained within the 40% canopy limit.\n\n\n\n\n\n\nFigure 1: Overall Tract Allocation"
+  },
+  {
+    "objectID": "ChicagoForestryStudy.html#key-takeaways",
+    "href": "ChicagoForestryStudy.html#key-takeaways",
+    "title": "Equity-Focused Urban Forestry Planning in Chicago",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nStrategic canopy allocation can simultaneously address population density, environmental exposure, and social vulnerability.\n\nOptimization models provide a transparent, data-driven approach for urban forestry planning.\n\nEquity-focused planting ensures historically underserved communities gain access to environmental and health benefits.\n\nComposite weighting allows city planners to adjust priorities (population, equity, air quality, heat mitigation) without rerunning models."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I’m a senior Data Analytics student at Denison University. I enjoy using data to help make decisions as well as discover new insights."
+  }
+]

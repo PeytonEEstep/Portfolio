@@ -1,0 +1,16 @@
+# Quarto / R
+.Rproj.user
+.Rhistory
+.RData
+.RDS
+*.Rproj
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Quarto output (we DO want /docs tracked for GitHub Pages)
+# So do NOT ignore docs/
+
+/.quarto/
+**/*.quarto_ipynb

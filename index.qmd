@@ -1,0 +1,22 @@
+---
+title: "Home"
+---
+
+# Peyton Estep
+
+Hello! I'm a Data Analytics senior interested in research and 
+
+## What you’ll find here
+- A few projects I’m proud of
+- The tools I use
+- Ways to contact me
+
+## Quick highlights
+- **Skills:** R, tidyverse, SQL, data visualization, statistical modeling, optimization 
+- **Interests:** Research, Market Research, Business Analytics
+- **Currently seeking:** internships / research / full-time roles
+
+## Contact
+- Email: pestep09@gmail.com
+- GitHub: https://github.com/PeytonEEstep 
+- LinkedIn: www.linkedin.com/in/peytonestep

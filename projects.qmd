@@ -1,0 +1,25 @@
+---
+title: "Projects"
+---
+
+Welcome to my projects page! Here you can explore my research and other work.
+
+## Research Projects
+
+### [Stress & Anxiety Study](StressAnxietyStudy.qmd)
+A study examining strategies for managing stress and anxiety in college students using CBT and Existential meaning-making interventions. Includes analysis of public speaking stress responses and recovery patterns.
+
+[Download full paper (PDF)](pdfs/StressAnxietyStudy.pdf)
+
+### [Urban Walkability & Restaurant Longevity Research](UrbanWalkabilityStudy.qmd)
+This study explores how neighborhood walkability relates to the longevity of restaurants across five cities in Cuyahoga County, Ohio. Using block-level Walk Scores, population data, and restaurant opening years, the analysis examines spatial patterns, differences between chain and standalone restaurants, and whether walkability predicts restaurant survival.
+
+[Download full paper (PDF)](pdfs/UrbanWalkabilityStudy.pdf)
+
+### [Equity-Focused Urban Forestry in Chicago](ChicagoForestryStudy.qmd)
+A data-driven analysis identifying Chicago census tracts for strategic tree canopy expansion to maximize public health, mitigate urban heat, improve air quality, and promote environmental equity. The study used optimization models incorporating population, low-income status, air pollution, Urban Heat Index, and social vulnerability to guide high-impact tree-planting decisions.
+
+[Download full paper (PDF)](pdfs/ChicagoForestryStudy.pdf)
+
+---
+

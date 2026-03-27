@@ -1,0 +1,29 @@
+---
+title: "About Me"
+---
+
+Hello! I’m a senior Data Analytics student at **Denison University**. I enjoy using data to help make decisions as well as discover new insights.
+
+## Skills
+- **Coding Languages:** Python (Pandas. Matplotlib, Plotly, Gurobi), R (dplyr, ggplot2, tidyverse, tidyr, rmarkdown, knitr), SQL, SPSS
+- **Software and Environments:** RStudio, Jupyter Notebook, Git, Gurobi, Marimo
+- **Tools:** Git/GitHub, Quarto, Excel, Tableau/Power BI  
+- **Statistical Analysis:** Hypothesis Testing, Regression Analysis, Correlation Analysis, Optimization/Linear Programming
+
+## What I’m working on
+- Building a counter/tracker app using Claude.AI
+- Researching stigma in LLMs for different mental health disorders
+
+## Coursework
+- Advanced Prescriptive Analytics
+- Applied Statistics
+- Practicum in Data Analytics
+- Leveraging Databases for DA
+- Clinical Psychology
+- Research in Clinical Psychology
+
+## LinkedIN
+www.linkedin.com/in/peytonestep
+
+## Resume
+[Download Resume (PDF)](Resume - Peyton Estep.pdf)

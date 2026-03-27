@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Data Analytics Portfolio - Peyton Estep"
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+      - href: projects.html
+        text: Projects
+        menu: 
+          - text: "Stress & Anxiety Study"
+            href: StressAnxietyStudy.html
+          - text: "Urban Walkability & Restaurant Longevity"
+            href: UrbanWalkabilityStudy.html
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
