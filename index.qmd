@@ -1,0 +1,25 @@
+---
+title: "Home"
+---
+
+# Peyton Estep
+
+Hello! I've recently graduated from **Denison University** as Class of 2026 with a Bachelor of Arts in Data Analytics!
+
+## What you’ll find here
+- A few projects I’m proud of
+- The tools I use
+- Ways to contact me
+
+## Techincal Expertise
+- **Data Science & Modeling:** Statistical modeling (ANOVA, Ordinal Logistic Regression), predictive analytics, and optimization modeling.
+- **Programming & Tools:** R (tidyverse, ggplot2), Python (OpenAI API, Pandas, Scikit-learn), SQL, Excel, and SPSS.
+- **Data Visualizations:** Designing interactive and publication-ready visualizations using Seaborn, Plotly, and Quarto.
+
+## Currently Seeking
+Full-time roles in analytics or research!
+
+## Contact
+- Email: pestep09@gmail.com
+- GitHub: https://github.com/PeytonEEstep 
+- LinkedIn: www.linkedin.com/in/peytonestep
